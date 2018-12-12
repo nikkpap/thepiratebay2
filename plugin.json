@@ -1,0 +1,14 @@
+{
+  "description": "ThePirateBay2 plugin for Movian. The Pirate Bay is the galaxy's most resilient BitTorrent site.",
+  "author": "<<Initial Code by Wain>>, fixes and maintain by ivantotev and nikkpap",
+  "homepage": "http://github.com/nikkpap",
+  "title": "The PirateBay 2",
+  "synopsis": "The PirateBay Alternatives 2018",
+  "version": "0.2.5",
+  "file": "thepiratebay.js",
+  "showtimeVersion": "5.0.100",
+  "type": "ecmascript",
+  "icon": "logo.png",
+  "id": "thepiratebay2",
+  "category": "video"
+}
